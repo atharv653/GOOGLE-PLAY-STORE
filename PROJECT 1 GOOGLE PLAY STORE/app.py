@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # App title and creator credit
 st.title("📱 Google Play Store Data Explorer")
